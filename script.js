@@ -12,7 +12,7 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
 // Song titles
-const songs = ['innocent', 'somebodys_me', 'pehli_dafa','jaan_nisaar'];
+const songs = ['innocent', 'somebodys_me', 'pehli_dafa','jaan_nisaar','Ab_Tere_Bin','Akh_Lad_Jaave','Bajrang_Baan','Barsaat_Ke_Mausam','Bin_Tere_Sanam','Dil_Mein','Enni_Soni','Kinna_Sona','Munda_Gora_Rang','Tujhko_Na_Dekhun','Tum_Hi_Aana','Tune_Zindagi_Mein'];
 
 // Keep track of song
 let songIndex = 3;
